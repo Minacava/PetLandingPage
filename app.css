@@ -1,0 +1,60 @@
+body{
+	background: url("img/cover2.jpg");
+	background-size: cover;
+}
+
+#content {
+	text-align:center;
+	padding-top: 5%;
+	text-shadow: 1px 1px 2px black;
+}
+html{
+	height:100%;
+}
+hr{
+	border-color: white;
+	width: 530px;
+
+}
+
+/* H1-H3 colors */
+h1{
+	font-family: Volkon SC;
+	font-size: 100px;
+	color:rgb(88, 76, 29);
+    font-weight:normal;
+    font-style:italic;
+}
+h1 .h1color{
+    color:rgb(78, 81, 88);
+}
+h3{
+	font-family:Spectral SC;
+}
+h3{
+	color: rgb(184, 26, 52);
+}
+
+/*  End H1-H3 colors  */
+/*  Navbar   */
+.navbar-dark{
+  background-color:#15100A !important
+	
+}
+.navbar-dark .navbar-toggler{
+	border-color:#790428;	
+	background-color:white; 
+}
+.navbar-toggler-icon {
+	background-color:#790428!important
+}
+
+/*Links*/
+a:link {color:#ffffff;}
+
+/*b*/
+.boton{
+	padding-left: -30%;
+	
+
+}
